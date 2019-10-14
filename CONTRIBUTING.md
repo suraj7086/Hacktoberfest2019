@@ -10,5 +10,8 @@
 ### Shreyans Jain
 Github: https://github.com/Shreyans13
 
+### Shlok Naik
+Github: https://github.com/shloknaik
+
 Happy Contributing!!!!
 Happy Coding!!!
