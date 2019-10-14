@@ -10,5 +10,9 @@
 ### Shreyans Jain
 Github: https://github.com/Shreyans13
 
+
+### Remano Victor
+- Github: https://github.com/RemanoVictor
+
 Happy Contributing!!!!
 Happy Coding!!!
