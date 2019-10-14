@@ -10,5 +10,8 @@
 ### Shreyans Jain
 Github: https://github.com/Shreyans13
 
+### Gauss Green
+Github: https://github.com/GaussGreen1
+
 Happy Contributing!!!!
 Happy Coding!!!
