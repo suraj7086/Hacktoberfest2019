@@ -10,5 +10,8 @@
 ### Shreyans Jain
 Github: https://github.com/Shreyans13
 
+### Azmi Nawwar
+Github: https://github.com/azminawwar
+
 Happy Contributing!!!!
 Happy Coding!!!
