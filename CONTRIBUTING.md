@@ -10,5 +10,8 @@
 ### Shreyans Jain
 Github: https://github.com/Shreyans13
 
+### Mayank Aggarwal
+- Github: https://github.com/aggarwalmayank49
+
 Happy Contributing!!!!
 Happy Coding!!!
