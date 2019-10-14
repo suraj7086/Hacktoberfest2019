@@ -11,7 +11,7 @@
 Github: https://github.com/Shreyans13
 
 ### Shlok Naik
-Github: https://github.com/shloknaik
+- Github: https://github.com/shloknaik
 
 Happy Contributing!!!!
 Happy Coding!!!
