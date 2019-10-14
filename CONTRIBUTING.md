@@ -10,7 +10,7 @@
 ### Shreyans Jain
 Github: https://github.com/Shreyans13
 
-### Ahnaf Hadi Fathuloh
+### Ahnaf Hadi Fathulloh
 Github: https://github.com/ahnafhf21
 
 Happy Contributing!!!!
