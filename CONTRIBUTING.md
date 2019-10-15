@@ -13,5 +13,8 @@ Github: https://github.com/Shreyans13
 ### Faique Yusuf
 Github: https://github.com/faiqueyusuf
 
+### Shivam Singh
+Github: https://github.com/Shivam051298
+
 Happy Contributing!!!!
 Happy Coding!!!
