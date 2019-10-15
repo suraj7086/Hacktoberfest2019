@@ -22,6 +22,9 @@ Github: https://github.com/GaussGreen1
 ### Mayank Aggarwal
 - Github: https://github.com/aggarwalmayank49
 
+### Remano Victor
+- Github: https://github.com/RemanoVictor
+
 
 Happy Contributing!!!!
 Happy Coding!!!
