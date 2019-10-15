@@ -25,6 +25,9 @@ Github: https://github.com/GaussGreen1
 ### Remano Victor
 - Github: https://github.com/RemanoVictor
 
+### Azmi Nawwar
+Github: https://github.com/azminawwar
+
 Happy Contributing!!!!
 Happy Coding!!!
 
