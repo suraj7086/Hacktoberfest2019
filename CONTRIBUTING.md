@@ -10,5 +10,8 @@
 ### Shreyans Jain
 Github: https://github.com/Shreyans13
 
+### Faique Yusuf
+Github: https://github.com/faiqueyusuf
+
 Happy Contributing!!!!
 Happy Coding!!!
