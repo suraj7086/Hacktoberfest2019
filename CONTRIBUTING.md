@@ -19,6 +19,10 @@ Github: https://github.com/Shivam051298
 ### Gauss Green
 Github: https://github.com/GaussGreen1
 
+### Mayank Aggarwal
+- Github: https://github.com/aggarwalmayank49
+
+
 Happy Contributing!!!!
 Happy Coding!!!
 
