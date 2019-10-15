@@ -16,5 +16,10 @@ Github: https://github.com/faiqueyusuf
 ### Shivam Singh
 Github: https://github.com/Shivam051298
 
+### Gauss Green
+Github: https://github.com/GaussGreen1
+
 Happy Contributing!!!!
 Happy Coding!!!
+
+
