@@ -34,6 +34,9 @@ Github: https://github.com/saarques
 ### Ahnaf Hadi Fathulloh
 Github: https://github.com/ahnafhf21
 
+### Peter Crilly
+https://github.com/compo
+
 Happy Contributing!!!!
 Happy Coding!!!
 
