@@ -7,20 +7,24 @@ using namespace std;
 class Fibonacci
 {
 private:
-	long a, b, limit;
+	long n1, n2, limit;
 public:
-	Fibonacci(int limit = 10, long initial_a = 0, long initial_b = 1) { a = initial_a; b = initial_b; this->limit = limit; };
+	/* setting the limit will make it the default n to count to */
+	Fibonacci(int limit = 10, long n1 = 0, long n2 = 1) { this->n1 = n1; this->n2 = n2; this->limit = limit; };
 	virtual ~Fibonacci() {};
 
-	long getInitialA() const { return a; }
-	long getInitialB() const { return b; }
+	long getInitial() const { return n1; }
+	long getInitialB() const { return n2; }
 	long getLimit() const { return limit; }
 
-	void setInitialA(const long a) { this->a = a; }
-	void setInitialB(const long b) { this->b = b; }
+	void setInitialA(const long n1) { this->n1 = n1; }
+	void setInitialB(const long n2) { this->n2 = n2; }
 	void setLimit(const int limit) { this->limit = limit; }
 	friend ostream& operator <<(ostream& os, const Fibonacci& f);
+	
 	long runRecursive(long n) const;
 	long runRecursive() const { return runRecursive(limit); }
-	long runLinear() const;
+	
+	long runLinear() const { return runLinear(limit); };
+	long runLinear(int n) const;
 };
