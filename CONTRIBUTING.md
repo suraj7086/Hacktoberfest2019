@@ -34,6 +34,9 @@ Github: https://github.com/saarques
 ### Ahnaf Hadi Fathulloh
 Github: https://github.com/ahnafhf21
 
+### Abdul Khadar
+Github: https://github.com/AbdulKhadhar
+
 Happy Contributing!!!!
 Happy Coding!!!
 
