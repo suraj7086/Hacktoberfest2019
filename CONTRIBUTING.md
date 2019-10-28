@@ -37,6 +37,9 @@ Github: https://github.com/saarques
 ### Ahnaf Hadi Fathulloh
 Github: https://github.com/ahnafhf21
 
+### Eden Dupont
+Github: https://github.com/eg7eg7
+
 Happy Contributing!!!!
 Happy Coding!!!
 
