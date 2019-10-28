@@ -4,6 +4,9 @@
 - Github: YOUR GITHUB URL
 ***
 
+### Samar Kalra
+- Github: https://github.com/samarcodes
+
 ### Suraj Singh
 - Github:https://github.com/suraj7086
 
