@@ -40,6 +40,9 @@ Github: https://github.com/ahnafhf21
 ### Eden Dupont
 Github: https://github.com/eg7eg7
 
+### Baesse (Pedro)
+Github: https://github.com/pbaesse
+
 Happy Contributing!!!!
 Happy Coding!!!
 
