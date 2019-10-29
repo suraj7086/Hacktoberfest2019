@@ -40,6 +40,9 @@ Github: https://github.com/ahnafhf21
 ### Eden Dupont
 Github: https://github.com/eg7eg7
 
+### Matuzael Dias
+Github: https://github.com/Matuzael
+
 Happy Contributing!!!!
 Happy Coding!!!
 
