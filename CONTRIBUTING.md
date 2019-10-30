@@ -40,6 +40,9 @@ Github: https://github.com/ahnafhf21
 ### Eden Dupont
 Github: https://github.com/eg7eg7
 
+### Salmento
+Github: https://github.com/salmento
+
 Happy Contributing!!!!
 Happy Coding!!!
 
