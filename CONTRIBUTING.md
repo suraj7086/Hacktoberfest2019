@@ -10,6 +10,9 @@
 ### Suraj Singh
 - Github:https://github.com/suraj7086
 
+### M. Dias
+- Github:https://github.com/Dias04
+
 ### Shreyans Jain
 Github: https://github.com/Shreyans13
 
