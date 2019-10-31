@@ -40,6 +40,8 @@ Github: https://github.com/ahnafhf21
 ### Eden Dupont
 Github: https://github.com/eg7eg7
 
+### Pushkar Prashant
+Github: https://github.com/prashant-pushkar
 Happy Contributing!!!!
 Happy Coding!!!
 
